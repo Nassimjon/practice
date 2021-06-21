@@ -101,7 +101,9 @@ li {
 .intro-container {
     position: relative;
     height: 585px;
-    background: url(/img/intro-img.jpg) ;
+
+
+    /* background: url(/img/intro-img.jpg) ; */
 } 
 
 .circle-huge {
